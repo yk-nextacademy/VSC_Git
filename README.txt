@@ -1,3 +1,5 @@
+# README in main branch
+
 ## VSCode - Git 연동
 
 ## VSCode 설치
