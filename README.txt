@@ -4,6 +4,7 @@
 - https://code.visualstudio.com/
 
 ## Git 연동
+- https://git-scm.com/ 
 
 ## Version
 - ver 1.0.0
